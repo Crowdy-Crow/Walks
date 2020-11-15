@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Walks.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\Projects\\ConsoleApp2\\ConsoleApp2\\Walks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Walks.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Projects\\ConsoleApp2\\ConsoleApp2\\Walks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Walks.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Projects\\ConsoleApp2\\ConsoleApp2\\Walks.csproj",
         "projectName": "Walks",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Walks.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Projects\\ConsoleApp2\\ConsoleApp2\\Walks.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Projects\\ConsoleApp2\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",

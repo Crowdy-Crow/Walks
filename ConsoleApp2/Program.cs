@@ -56,7 +56,7 @@ namespace Walks
             Console.WriteLine("Куда пойдем?Введите номер");
             int Place = Convert.ToInt32(Console.ReadLine());
             Person ChosenPerson = people[PersonNumber-1];
-            ChosenPerson.GoToAsync(Place-1);
+            ChosenPerson.GoToAsync(Place-1); //комментарий
         }
     }
 }
