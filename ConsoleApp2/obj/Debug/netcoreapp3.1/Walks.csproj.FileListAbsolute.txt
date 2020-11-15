@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.exe
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.deps.json
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.runtimeconfig.json
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.dll
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Walks.pdb
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.dll
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.pdb
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.genruntimeconfig.cache
+C:\Users\Alex\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Walks.csprojAssemblyReference.cache
