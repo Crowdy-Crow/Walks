@@ -17,13 +17,13 @@ namespace Walks
             this.Name = Name;
             MessEvent += Del;
         }
-        public async void GoToAsync(int numberLocation)
+        public async void GoToLocationAsync(int numberLocation)
         {
            
-            await Task.Run(() => GoTo(numberLocation));
+            await Task.Run(() => GoToLocation(numberLocation));
             
         }
-        void GoTo(int A)
+        void GoToLocation(int A)
         {
             lock (locker)
             {
